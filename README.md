@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently undergraduate student in mercubuana university<br>🌱 I’m currently learning Javascript Framework and Typescript
+🔭 My name is Muhammad Hafizh Zulian Susanto and you can call me Hafizh i’m currently undergraduate student in mercubuana university<br>🌱 I’m also currently learning Javascript Framework and Typescript
 
 
 ## 🌐 Socials:
